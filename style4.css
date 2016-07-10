@@ -1,0 +1,130 @@
+*{
+	font-family: "Microsoft YaHei",san-serif;
+	margin: 0;
+	padding:0;
+	
+}
+
+body{
+	background-color: #e2e2e2;
+	min-width: 980px;
+}
+
+.wrapper{
+	width: 100%;
+	margin: 0 auto;
+	
+}
+
+#header{
+	width: 100%;
+	height: 80px;
+	background-color: #522A5C;
+	position: relative;
+}
+
+#header .nav{
+	width: 980px;
+	height: 80px;
+	margin: 0 auto;
+	position: relative;
+}
+#header .nav h1{
+	color: #fff;
+	position: absolute;
+	left: 0;
+	bottom: 5px;
+	
+}
+#header .nav ul {
+	font-family:"宋体" san-serif;
+	font-size: 14px;
+	float: right;
+	list-style: none;
+	color: #fff;
+	word-spacing: 28px;
+	position: absolute;
+	right: 0;
+	bottom: 5px;
+}
+
+#header .nav ul li{
+	display: inline;
+
+}
+
+#header img{
+	position: absolute;
+	right: 10px;
+	bottom: 0;
+}
+
+#content{
+	
+	margin: 100px auto 30px;
+	width: 980px;
+
+}
+
+.rightpart{
+	background-color: #ffffff;
+	float: right;
+	margin-bottom: 100px;
+	width: 487px;
+	height: 1134px;
+}
+
+.info{
+	margin: 0 130px 150px 50px;
+	position: relative;
+}
+
+.info img{
+	border: 5px solid #e2e2e2;
+	border-radius: 50%;
+	float: left;
+	left: -110px;
+	position: absolute;
+	top: -120px;
+}
+
+
+.info h1{
+	float: left;
+	font-size: 20px;
+	left: -200px;
+	position: absolute;
+}
+
+.info p{
+	font-size: 14px;
+	line-height: 200%;
+}
+
+.info-edu-item{
+	margin-bottom: 40px;
+	position: relative;
+}
+
+
+.info-time{
+	background: #fff none repeat scroll 0 0;
+	border: 5px solid #e2e2e2;
+	border-radius: 10px;
+	color: #888;
+	left: -88px;
+	position: absolute;
+	text-align: center;
+	width: 60px;
+}
+
+.info-routine{
+	font-size: 12px;
+}
+
+.leftpart{
+	background: #ffffff none repeat scroll 0 0;
+	float: left;
+	height: 1134px;
+	width: 487px;s
+}
