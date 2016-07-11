@@ -1,2 +1,0 @@
-# ife
-congenial-computing-machine
