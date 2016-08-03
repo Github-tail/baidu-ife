@@ -1,5 +1,4 @@
-# ife
-congenial-computing-machine
+
 基于设计稿中的设计图及标志实现页面，里面的内容、图片、配色均可自定义。
 
 编码过程请尽可能遵守HTML、CSS的代码规范；
